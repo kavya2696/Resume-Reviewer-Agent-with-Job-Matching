@@ -99,6 +99,7 @@ The final output displayed inside Claude includes:
 * Citizenship / clearance warnings
 * Direct job application links
 * Concise improvement feedback
+  
 Example output:
 
 RESUME TOP-5 MATCHES
